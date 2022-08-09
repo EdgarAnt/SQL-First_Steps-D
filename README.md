@@ -1,6 +1,6 @@
 # SQL-First_Steps.
 
-~SQL course by hello world~
+~ SQL course by hello world ~ 
 
 Link to the course: https://youtu.be/uUdKAYl-F7g
 
